@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000000"
+    },
+    {
+      "id": 2,
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": 4,
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/4/1.jpg",
+        "https://i.dummyjson.com/data/products/4/2.jpg",
+        "https://i.dummyjson.com/data/products/4/3.jpg",
+        "https://i.dummyjson.com/data/products/4/4.jpg",
+        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+      ]
+    }
+  ]
+}
