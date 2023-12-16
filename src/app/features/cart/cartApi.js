@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export  function fetchItems (){
-    return axios.get("https://dummy.json")
+    return axios.get("http://localhost:3000/cart")
 }
 
 export function addItems(item){
@@ -9,7 +9,7 @@ export function addItems(item){
 }
 
 export function changeQuantity(id,qty){
-    return axios.post(`http://localhost:3000/cart/${id}`,qty)
+    return axios.put(`http://localhost:3000/cart/${id}`,qty)
 
 }
 
